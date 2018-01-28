@@ -1,4 +1,4 @@
-package com.mly.customview;
+package com.mly.android.utils;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

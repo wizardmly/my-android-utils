@@ -1,4 +1,4 @@
-package com.mly.customview;
+package com.mly.android.utils;
 
 import org.junit.Test;
 

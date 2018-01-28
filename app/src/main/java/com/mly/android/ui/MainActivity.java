@@ -1,4 +1,4 @@
-package com.mly.customview;
+package com.mly.android.ui;
 
 import android.graphics.Rect;
 import android.support.v7.app.AppCompatActivity;
@@ -7,6 +7,8 @@ import android.util.DisplayMetrics;
 import android.view.View;
 import android.view.Window;
 import android.widget.TextView;
+
+import com.mly.android.utils.ScreenUtils;
 
 public class MainActivity extends AppCompatActivity {
 
