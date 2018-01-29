@@ -253,4 +253,4 @@ dkms.conf
 .gradle/
 .idea/
 build
-my-android-utils.iml
+app/.externalNativeBuild/
